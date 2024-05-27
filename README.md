@@ -2,6 +2,10 @@
 
 A brief example of a VitePress site
 
+## Requirements
+
+[Node.js](https://nodejs.org/en) version 18 or higher.
+
 ## Setup
 
 Install the dependencies:
